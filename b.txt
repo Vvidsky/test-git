@@ -1,5 +1,3 @@
 Hello from b
 
 banana
-boat
-beach
